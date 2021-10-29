@@ -1,0 +1,26 @@
+{
+  "name": "employee_tracker",
+  "version": "1.0.0",
+  "description": "employee tracker app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nahid1010/employee_tracker.git"
+  },
+  "author": "Nahid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nahid1010/employee_tracker/issues"
+  },
+  "homepage": "https://github.com/Nahid1010/employee_tracker#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "g": "^2.0.1",
+    "inquirer": "^8.2.0",
+    "mysql": "^2.18.1"
+  }
+}
